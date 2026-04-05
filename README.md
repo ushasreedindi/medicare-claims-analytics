@@ -51,6 +51,9 @@ pipeline from raw government data to an interactive Power BI dashboard.
 2. Run `healthcare_claims_pipeline.ipynb` in Google Colab
 3. Load `Healthcare_Claims_Dashboard.pbix` in Power BI Desktop
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ## 👩‍💻 Author
 **Usha Sree Dindi**  
 [LinkedIn](https://www.linkedin.com/in/ushasree-dindi-9439a4252/) | [Email](mailto:usha.sree.dindi.2000@gmail.com)
